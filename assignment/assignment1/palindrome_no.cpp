@@ -8,7 +8,7 @@ public:
         long long int digit;
         while(x!=0){
             digit=x%10;
-            sum=(sum*10)+digit;al;knd
+            sum=(sum*10)+digit;
             x=x/10;
         }
         if(temp==sum);
